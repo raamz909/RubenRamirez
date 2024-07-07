@@ -20,7 +20,7 @@ function Projects() {
       />
             <ProjectCard
       //aca se cambia todo sobre los proyectos
-        src={GamePulser}
+        src={GamePulse}
         link={
           "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         }
