@@ -13,7 +13,7 @@ function Projects() {
       //aca se cambia todo sobre los proyectos
         src={RufusMusic}
         link={
-          "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          ""
         }
         h3="RufusMusic" 
         p='Streaming de musica con react.'
@@ -22,7 +22,7 @@ function Projects() {
       //aca se cambia todo sobre los proyectos
         src={GamePulse}
         link={
-          "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          ""
         }
         h3="GamePulse" 
         p='Informacion sobre tus videojuegos favoritos.'
